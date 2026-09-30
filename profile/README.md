@@ -1,6 +1,6 @@
-# computational molecular oncology
+# Computational Molecular Oncology
 
-Research software and reproducible analyses for molecular oncology,
+Research software and reproducible analyses for computational molecular oncology,
 with a focus on breast cancer transcriptomics, tumour molecular heterogeneity
 and the evaluation of batch correction.
 
@@ -20,15 +20,17 @@ the information needed to interpret changes in variance attribution.
 
 ## Code accompanying publications
 
-### [BatchVaria-AppNote](https://github.com/cmpmolonc/BatchVaria-AppNote)
+### [The significance of molecular heterogeneity in breast cancer batch correction and dataset integration](https://github.com/cmpmolonc/BC)
 
-Analysis scripts for reproducing the results and figure in the
-BatchVaria Application Note, demonstrated using TCGA breast cancer
+Analysis code to support the 2025 Breast Cancer Research publication (https://link.springer.com/article/10.1186/s13058-025-02159-7).
+
+
+### [BatchVaria Application Note](https://github.com/cmpmolonc/BatchVaria-AppNote)
+
+Analysis scripts for reproducing analysis results and figure in the
+BatchVaria Application Note preprint (https://www.biorxiv.org/content/10.64898/2026.05.07.721996v2). Utility of BatchVaria is demonstrated using TCGA breast cancer
 RNA-seq data.
 
-**Start here to reproduce the manuscript analysis.**
-For installation and general package usage, visit
-[BatchVaria](https://github.com/cmpmolonc/BatchVaria).
 
 ## Reproducibility and citation
 
