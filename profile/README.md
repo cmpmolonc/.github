@@ -1,4 +1,4 @@
-# cmpmolonc
+# computational molecular oncology
 
 Research software and reproducible analyses for molecular oncology,
 with a focus on breast cancer transcriptomics, tumour molecular heterogeneity
