@@ -1,11 +1,20 @@
 # Computational Molecular Oncology
 
-Research software and reproducible analyses for computational molecular oncology,
-with a focus on breast cancer transcriptomics, tumour molecular heterogeneity
-and the evaluation of batch correction.
+Research software and reproducible analyses developed and maintained
+by **[Nicholas Moir](https://orcid.org/0000-0001-6957-932X)**.
 
-Our repositories include reusable software and code accompanying
-individual publications.
+My research focuses on molecular heterogeneity in breast cancer and its
+implications for the analysis and interpretation of transcriptomic data.
+I investigate how molecular subtype, cohort composition and technical
+variation affect dataset integration and biological inference.
+
+I develop software and reproducible workflows for evaluating batch correction, 
+comparing analytical configurations and tracking their effects
+on biologically meaningful variation.
+
+This page brings together my reusable software and the analysis
+code supporting my publications. All projects are developed and maintained
+by me.
 
 ## Software
 
